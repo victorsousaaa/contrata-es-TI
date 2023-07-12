@@ -1,6 +1,7 @@
 # contratacoes-Ti
 <p align="center">
-  <img src="https://github.com/victorsousaaa/contratacoes-Ti/assets/129635129/d49b2dad-79a7-4547-97fa-982297c32448
+  <img src="https://github.com/victorsousaaa/contratacoes-Ti/assets/129635129/3eccc3fe-579d-4d89-97e9-2f27d26deb2a"
+
  alt="Desmonstração do projeto" width="100%">
 </p>
 <<<<<<< HEAD
